@@ -4,7 +4,7 @@
 Requisitos: 
 
 - Java 8 (necessário para executar o Allure)
-- Node instalado
+- Node
 ```
 
 ```markdown

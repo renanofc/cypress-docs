@@ -4,7 +4,6 @@
 O que você vai aprender
 
 - O que é o Cypress e porque você deveria usá-lo
-- Nossa missão e no que acreditamos
 - Funcionalidades-chave do Cypress
 ```
 
