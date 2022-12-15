@@ -10,7 +10,7 @@
   <br/>
 	</a>
   <p>Documentação feita para o auxilio do uso da ferramenta Cypress </p>
-  <p>Feita por: Renan Moreira 💻 </p>
+  <p>Feito por: Renan Moreira 💻 </p>
 </div>
 <br/>
 
