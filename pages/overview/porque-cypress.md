@@ -16,12 +16,6 @@ O Cypress é uma ferramenta de teste de front end de última geração, criada p
 a web moderna. Abordamos os principais pontos problemáticos que desenvolvedores
 e engenheiros de QA enfrentam ao testar aplicações modernas.
 
-Nós simplificamos:
-
-- [Configurando os testes](#configurando-os-testes)
-- [Escrevendo os testes](#escrevendo-os-testes)
-- [Executando os testes](#executando-os-testes)
-- [Depurando os testes](#depurando-os-testes)
 
 O Cypress é mais frequentemente comparado ao Selenium; no entanto, o Cypress
 é fundamentalmente e arquiteturalmente diferente. O Cypress não é restringido
@@ -55,34 +49,6 @@ todos os dias enquanto você cria sua aplicação localmente. *TDD no seu melhor
 seu provedor de integração contínua (CI), nosso Painel como serviço pode gravar
 suas execuções de teste. 
 Você nunca terá que se perguntar: *por que isso falhou?*
-
-## Nossa missão
-
-Nossa missão é construir um ecossistema próspero e de código aberto que aumente
-a produtividade, torne os testes uma experiência agradável e gere felicidade
-para os desenvolvedores. Nós nos responsabilizamos por defender um 
-processo de teste **que realmente funcione**.
-
-Acreditamos que nossa documentação deve ser simples e acessível. 
-Isso significa permitir que nossos leitores entendam plenamente não apenas
-**o que**, mas o **porquê** também.
-
-Queremos ajudar os desenvolvedores a criar uma nova geração de aplicações 
-modernas com mais rapidez, melhor e sem o estresse e a ansiedade associados
-ao gerenciamento de testes.
-
-Sabemos que, para que tenhamos sucesso, precisamos capacitar, fomentar e 
-promover um ecossistema que tenha sucesso com o código aberto. Cada linha
-de código de teste é um investimento **em sua base de código** e nunca será
-ligado a nós como um serviço pago ou empresa. Os testes poderão ser executados
-e funcionar independentemente, *sempre*.
-
-Acreditamos que os testes requerem muito 💙 e estamos aqui para construir
-uma ferramenta, um serviço e uma comunidade em que todos possam aprender e 
-se beneficiar. Estamos resolvendo os pontos mais difíceis compartilhados 
-por todos os desenvolvedores que trabalham na Web. Acreditamos nesta missão e 
-esperamos que você se junte a nós para tornar o Cypress um ecossistema 
-duradouro que ajuda a todos serem felizes.
 
 ## Funcionalidades
 
@@ -131,56 +97,3 @@ a partir da interfáce de linha de comando.
 
 - **Suporte entre navegadores:** Rode testes no Firefox e navegadores da família Chrome
 (incluindo Edge e Electron) localmente e otimizado na *pipeline* de integração contínua.
-
-## Configurando os testes
-
-Não há servidores, drivers ou quaisquer outras dependências para instalar ou
-configurar. Você pode escrever seu primeiro teste passando em 60 segundos.
-
-[Vídeo de exemplo](https://docs.cypress.io/img/snippets/installing-cli.mp4)
-
-## Escrevendo os testes
-
-Testes escritos com o Cypress são fáceis de ler e entender. 
-Nossa API vem totalmente pronta, usando ferramentas com as quais 
-você já está familiarizado.
-
-[Vídeo de exemplo](https://docs.cypress.io/img/snippets/installing-cli.mp4)
-
-## Executando os testes
-
-O Cypress é executado tão rápido quanto seu navegador pode renderizar conteúdo.
-Você pode assistir a testes executarem em tempo real enquanto desenvolve 
-suas aplicações. TDD para a vitória!
-
-[Vídeo de exemplo](https://docs.cypress.io/img/snippets/running-tests.mp4)
-
-## Depurando os testes
-
-Mensagens de erro legíveis ajudam você a depurar rapidamente. 
-Você também tem acesso a todas as ferramentas de desenvolvedor 
-que conhece e adora.
-
-[Vídeo de exemplo](https://docs.cypress.io/img/snippets/debugging.mp4)
-
-## Cypress Real World App
-
-![Cypress Real World App](https://docs.cypress.io/img/guides/real-world-app.df1de4ad.png)
-
-O Cypress torna rápido e fácil iniciar os testes e, quando você começa a testar seu aplicativo,
-**muitas vezes se pergunta se está usando as melhores práticas ou estratégias escaláveis.**
-
-Para guiar esse caminho, o time do Cypress criou a 
-[Real World App (RWA)](https://github.com/cypress-io/cypress-realworld-app),
-uma aplicação exemplo completa que demonstra testes com o **Cypress em cenários práticos e realistas.**
-
-A RWA alcança cobertura de código total com testes ponta a ponta em vários navegadores e
-tamanhos de dispositivo, mas também inclui testes de regressão visual, testes de API,
-testes de unidade e os executa em um pipeline de CI eficiente. Use a RWA para **aprender,**
-**experimentar, mexer e praticar** testes de aplicativos web com o Cypress.
-
-O aplicativo vem com tudo que você precisa, 
-[basta clonar o repositório](https://github.com/cypress-io/cypress-realworld-app)
-e iniciar os testes. 
-
-[Voltar para o topo](#por-que-cypress)
