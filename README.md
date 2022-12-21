@@ -30,7 +30,7 @@
 
 ---
 
-## Contribuidores ✨
+## Contribuidores 👨‍💻
 
 
 
