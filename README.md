@@ -24,7 +24,7 @@
     - [Como instalar o Cypress](pages/getting-started/instalando-cypress.md)
     - [Escrevendo o Primeiro Teste](pages/getting-started/escrevendo-seu-primeiro-teste.md)
 - Cobertura de testes do Cypress com o Allure
-  - [Como efetuar a configuração e execução](pages/getting-started/allure.md)
+  - [Como efetuar a configuração e execução](pages/getting-started/assertions.md)
 
     
 
